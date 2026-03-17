@@ -1,2 +1,2 @@
-# RCAP.github.io
-RCAP API
+# deviceapi.github.io
+Api for AIincer-Programm-Manager
