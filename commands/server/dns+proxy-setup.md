@@ -20,8 +20,8 @@ sudo systemctl restart dnsmasq
 sudo systemctl enable dnsmasq
 ```
 # Router verbinden
-```Heimnetz → Netzwerk → Netzwerkeinstellungen```
+```Heimnetz → Netzwerk → Netzwerkeinstellungen → IP-Adressen → IPv4-Einstellungen → Heimnez```
 ```
-Bevorzugter DNS: <server-ip>
-Alternativer DNS: 1.1.1.1 (optional)
+Lokaler DNS-Server: <server-ip>
 ```
+# Reverse Proxy einrichten
