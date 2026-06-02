@@ -8,7 +8,11 @@
 - ssh
   - ls
   - cd <to>
-  - curl <web-adresse>
+  - mkdir <name>
+  - sudo namo <name>
+  - sudo cp <von> <nach>
+    - kopieren
+- curl <web-adresse>
     - quellcode von adresse abfragen
   - nur mit XQuartz
     - open <file>
