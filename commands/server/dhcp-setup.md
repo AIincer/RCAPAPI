@@ -14,6 +14,11 @@ autostart
 sudo systemctl enable dnsmasq
 sudo systemctl start dnsmasq
 ```
+// nach änderung
+```
+sudo systemctl restart dnsmasq
+sudo systemctl enable dnsmasq
+```
 # Router verbinden
 ```Heimnetz → Netzwerk → Netzwerkeinstellungen```
 ```
