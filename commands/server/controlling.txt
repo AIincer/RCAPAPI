@@ -1,5 +1,6 @@
 - lokal
   - ssh <server>
+  - ssh -Y <server>
   - exit
   - scp <server>:~<path+file> .
     - datei auf lokal kopieren
@@ -7,5 +8,8 @@
 - ssh
   - ls
   - cd <to>
-  - open <file>
-    - nur mit XQuartz
+  - curl <web-adresse>
+    - quellcode von adresse abfragen
+  - nur mit XQuartz
+    - open <file>
+    - firefox >web-adresse>
