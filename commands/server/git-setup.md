@@ -8,6 +8,11 @@ testen
 ```
 ssh -T git@github.com
 ```
+account-details setzen
+```
+git config --global user.name "<GitHub Name>"
+git config --global user.email "<email github>"
+```
 # setup
 klonen
 ```
