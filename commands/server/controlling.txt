@@ -9,7 +9,7 @@
   - ls
   - cd <to>
   - mkdir <name>
-  - sudo namo <name>
+  - (sudo) namo <name>
   - (sudo) cp <von> <nach>
     - kopieren
   - unzip <name>
