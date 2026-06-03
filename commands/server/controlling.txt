@@ -10,8 +10,10 @@
   - cd <to>
   - mkdir <name>
   - sudo namo <name>
-  - sudo cp <von> <nach>
+  - (sudo) cp <von> <nach>
     - kopieren
+  - unzip <name>
+  - zip -r <zielname>.zip <von-ordner>
   - curl ifconfig.me
     - IPv6-adresse abfragen
   - curl <web-adresse>
