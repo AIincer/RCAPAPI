@@ -33,3 +33,7 @@ git add .
 git commit -m "ssh Commit"
 git push
 ```
+# aktualisieren
+```
+git pull
+```
